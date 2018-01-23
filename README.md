@@ -1,4 +1,1 @@
-# Devadesatka
 
-Requirements:
--------------
